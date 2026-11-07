@@ -1,4 +1,4 @@
-# swfrztool-gui
+# swfrztool-next
 
 希沃冰点还原控制工具（重构版本），基于 C++17 + Win32 + Direct2D/DirectWrite 自绘界面，零第三方依赖，静态 CRT 编译。
 
