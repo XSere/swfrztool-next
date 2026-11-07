@@ -56,7 +56,7 @@ cmake --build out/build/x64-Release --config RelWithDebInfo
 ---
 
 # 免责声明
-最后更新日期： 2026年8月10日
+最后更新日期： 2026年11月7日
 适用产品： swfrztool-gui（以下简称“本工具”）
 
 ### 1. 用途限定
